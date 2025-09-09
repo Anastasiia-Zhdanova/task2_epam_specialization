@@ -1,0 +1,24 @@
+From 65bb67ba053a71aef3f8b020485560ef8597ff06 Mon Sep 17 00:00:00 2001
+From: Anastasiia Zhdanova <photoshootcancun@gmail.com>
+Date: Tue, 9 Sep 2025 09:21:01 -0500
+Subject: [PATCH] changed firstFile.txt git_1 - two last lines
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f00c965..429359c 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -6,5 +6,5 @@
+ 6
+ 7
+ 8
+-9
+-10
++9 - update for task 7 - git_1
++10 - update for task 7 - git_1
+-- 
+2.48.0
+
