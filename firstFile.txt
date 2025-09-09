@@ -1,5 +1,5 @@
-1
-2
+1 - update for task 8 - git_1
+2 - update for task 8 - git_1
 3
 4
 5
